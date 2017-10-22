@@ -1,0 +1,14 @@
+---
+title: "BTC Market Cap Shiny"
+date: 2017-10-22T14:32:16-04:00
+draft: true
+---
+
+## LinkedIn
+
+Last week I was invited to publish a short article about the recent news of Bitcoin gaining a billion USD in market cap over last week. I believed that the best way to contribute my unique view was to create a small application similar to many of the analytics projects and dashboards that I develop and maintain as part of my current position. The resulting article can be viewed here on LinkedIn: <https://www.linkedin.com/pulse/interactive-timeline-bitcoin-market-cap-scott-goley>.
+
+The application itself is also viewable directly at:
+<https://databyscott.shinyapps.io/btc_market_cap/>
+
+![Image of the app.](../images/btcappcap.png)

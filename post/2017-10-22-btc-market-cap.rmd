@@ -1,7 +1,9 @@
 ---
 title: "BTC Market Cap Shiny"
+author: Scott Goley
 date: 2017-10-22T14:32:16-04:00
-draft: true
+categories: ["R"]
+tags: ["Shiny", "bitcoin", "visualization"]
 ---
 
 ## LinkedIn
@@ -11,4 +13,4 @@ Last week I was invited to publish a short article about the recent news of Bitc
 The application itself is also viewable directly at:
 <https://databyscott.shinyapps.io/btc_market_cap/>
 
-![Image of the app.](../images/btcappcap.png)
+![Image of the app.](<https://media.licdn.com/media/AAEAAQAAAAAAAA3PAAAAJDdkZGViNGQzLTkxNTUtNDIzMy04ODYzLTQ5MWI4MzBlODVlOQ.png>)
